@@ -1,0 +1,19 @@
+.regionList{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+.regionList li{
+    float: left;
+    margin-left: 5px;
+    cursor: pointer;
+}
+.active{
+    background: lightblue;
+    color: #fff;
+}
+.ant-modal-content p{
+    font-weight: bold;
+}

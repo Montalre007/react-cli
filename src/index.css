@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+ul,li,ol,dl,dd,dt{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+a,input, button{
+  outline: none;
+}

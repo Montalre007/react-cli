@@ -1,0 +1,15 @@
+.viewZoneBasicInfo .viewZoneBasicInfo-label,.viewZoneBasicInfo-text{
+    color: #606266;
+    font-size: 14px;
+}
+.viewZoneBasicInfo .viewZoneBasicInfo-label{
+    display: inline-block;
+    min-width: 126px;
+    font-weight: bold;
+    text-align: justify;
+    text-align-last: justify;
+    text-justify: inter-ideograph;
+}
+.viewZoneBasicInfo .ant-row{
+    padding: 5px 0;
+}
